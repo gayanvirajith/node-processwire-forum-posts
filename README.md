@@ -1,4 +1,4 @@
-# ProcessWire Latest Form Post CLI
+# ProcessWire Latest Forum Posts CLI
 
 Use ProcessWire CMS Forum? This is a command line tool to print out the latest ProcessWire forum posts to your terminal.
 
