@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/gayanvirajith/node-processwire-forum-posts/issues"
   },
-  "homepage": "https://github.com/gayanvirajith/node-processwire-forum-posts"
+  "homepage": "https://github.com/gayanvirajith/node-processwire-forum-posts",
+  "dependencies": {
+    "feedparser": "^0.19.2",
+    "prompt": "^0.2.14",
+    "request": "^2.51.0"
+  }
 }
