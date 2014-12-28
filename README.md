@@ -3,7 +3,9 @@
 Use ProcessWire CMS Forum? This is a command line tool to print out the latest 
 ProcessWire forum posts to your terminal.
 
-## Requirements
+![Preview](http://gayan.me/thumbnails/node-processwire-forum-posts-lg.png)
+
+## Requirements / node dependencies
 
 - [request](https://github.com/request/request)
 - [feedparser](https://github.com/danmactough/node-feedparser)
