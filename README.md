@@ -13,8 +13,7 @@ ProcessWire forum posts to your terminal.
 
 ##Installation
 
-Before installation you will need 
-[node](http://nodejs.org/)/[npm](https://npmjs.org/) installed.
+Following command requires [node](http://nodejs.org/) & [npm](https://npmjs.org/).
 
     sudo npm install -g processwire-forum-posts
     
@@ -26,7 +25,7 @@ command prompt:
 
     pwtalk    
     
-A list of news items will be promted. Type the number of the post to open a 
+A list of post items will be promted. Type the number of the post to open a 
 post or type 0 to quit and return to your terminal session.
 
 ### Version history
