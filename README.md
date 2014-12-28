@@ -9,6 +9,28 @@ ProcessWire forum posts to your terminal.
 - [feedparser](https://github.com/danmactough/node-feedparser)
 - [prompt](https://github.com/flatiron/prompt)
 
+##Installation
+
+Before installation you will need 
+[node](http://nodejs.org/)/[npm](https://npmjs.org/) installed.
+
+    sudo npm install -g processwire-forum-posts
+    
+##Usage
+
+The global installation will symlink an executable script and place it in 
+your PATH. To use processwire-forum-posts type `pwtalk` on your terminal or
+command prompt:
+
+    pwtalk    
+    
+A list of news items will be promted. Type the number of the post to open a 
+post or type 0 to quit and return to your terminal session.
+
+### Version history
+
+- 0.0.1 - A very much initial release.
+
 ## License
 
 (The MIT License)
