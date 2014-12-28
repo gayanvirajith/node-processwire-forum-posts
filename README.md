@@ -20,10 +20,10 @@ Following command requires [node](http://nodejs.org/) & [npm](https://npmjs.org/
 ##Usage
 
 The global installation will symlink an executable script and place it in 
-your PATH. To use processwire-forum-posts type `pwtalk` on your terminal or
+your PATH. To use processwire-forum-posts type `pwforum` on your terminal or
 command prompt:
 
-    pwtalk    
+    pwforum    
     
 A list of post items will be promted. Type the number of the post to open a 
 post or type 0 to quit and return to your terminal session.
