@@ -1,7 +1,7 @@
 {
   "name": "processwire-forum-posts",
   "version": "0.0.1",
-  "description": "Use ProcessWire CMS Forum This is a command line tool to print out the latest ProcessWire forum posts to your terminal.",
+  "description": "Use ProcessWire CMS Forum? This is a command line tool to print out the latest ProcessWire forum posts to your terminal.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
