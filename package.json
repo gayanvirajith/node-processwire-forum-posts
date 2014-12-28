@@ -1,6 +1,6 @@
 {
   "name": "processwire-forum-posts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Use ProcessWire CMS Forum? This is a command line tool to print out the latest ProcessWire forum posts to your terminal.",
   "main": "index.js",
   "scripts": {
