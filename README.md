@@ -31,6 +31,7 @@ post or type 0 to quit and return to your terminal session.
 ### Version history
 
 - 0.0.1 - A very much initial release.
+- 0.0.2 - Changed bin name.
 
 ## License
 
